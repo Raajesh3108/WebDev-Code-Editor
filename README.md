@@ -122,3 +122,11 @@ return (
   </div>
 );
 ```
+
+### Step 6: Exporting the Component
+
+Finally, export the component to be used in React application.
+
+```jsx
+export default App;
+```
